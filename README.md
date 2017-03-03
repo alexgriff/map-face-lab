@@ -60,4 +60,15 @@ function draw() {
 
 Once you get it working, play around with the values and the ranges. What if one axis has a much bigger range than the other, or both eyes move differently.  What if you reverse the starting and ending points of the range.
 
-Can you do anything else with this idea. What if the eyes of a frog followed a fly as it randomly buzzed around the screen and on a mouse click the frog caught the fly with it's tongue... just an idea!
+## Extended Challenges
+Can you do anything else with this idea.
+
+- The eyes could follow something that randomly moved across the screen.  What if the face was a frog whose eyes followed a fly as it randomly buzzed around and on a mouse click the frog caught the fly with it's tongue... just an idea!
+
+- What if the entire face slowly moved but the eyes stayed fixated on a single point.
+
+- Use the mouse moving up and down to open and close the face's mouth. Make it sing a long to your favorite song.
+
+- While the mouse is pressed the face can grow sleepy:
+
+ ![sleepyness](https://s3.amazonaws.com/upperline/curriculum-assets/p5js/sleepynes.gif)
